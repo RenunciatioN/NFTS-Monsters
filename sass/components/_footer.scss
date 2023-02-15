@@ -1,0 +1,9 @@
+@media (max-width:499px) {
+	footer {
+		padding-bottom: 20px;
+		.nav__row {
+			flex-direction: column;
+		}
+	}
+
+}
